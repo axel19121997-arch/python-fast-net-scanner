@@ -1,10 +1,10 @@
-# ⚡ Network Scanner Fast (Multi-threaded)
+#  Network Scanner Fast (Multi-threaded)
 
 A high-performance Python network automation script designed to scan a local network, detect online hosts, and measure their latency. Utilizing multi-threading via `ThreadPoolExecutor`, this scanner asynchronously analyzes a range of 254 hosts in just a few seconds.
 
 ---
 
-## 🎯 Features
+##  Features
 
 * **Ultra-Fast Scanning**: Uses `ThreadPoolExecutor` to parallelize ICMP (Ping) requests concurrently.
 * **Smart Sorting**: Results are logically sorted by IP address in ascending order using the native `ipaddress` module.
@@ -12,7 +12,7 @@ A high-performance Python network automation script designed to scan a local net
 
 ---
 
-## 🛠️ Technologies & Libraries Used
+##  Technologies & Libraries Used
 
 * **Python 3.x**
 * `ping3`: For handling ICMP ping requests.
@@ -22,7 +22,7 @@ A high-performance Python network automation script designed to scan a local net
 
 ---
 
-## 🚀 Installation & Usage
+##  Installation & Usage
 
 ### 1. Prerequisites
 
@@ -43,7 +43,8 @@ Run the script:
 
 Bash
 python network_scanner.py
-📊 Sample Console Output
+
+Sample Console Output
 Plaintext
 [+] Début du scan rapide (trié) sur 192.168.1.0/1-254...
 --------------------------------------------------
@@ -54,7 +55,8 @@ Plaintext
 --------------------------------------------------
 [+] Scan terminé en 2.34 secondes.
 [+] 4 machine(s) active(s) trouvée(s).
-👨‍💻 Project Context
+
+Project Context
 This independent project was built as part of my career transition into IT and my preparation for a work-study contract (alternance) at ESGI Toulon.
 
 The primary goals were to practice:
