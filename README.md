@@ -55,18 +55,3 @@ Plaintext
 --------------------------------------------------
 [+] Scan terminé en 2.34 secondes.
 [+] 4 machine(s) active(s) trouvée(s).
-
-Project Context
-This independent project was built as part of my career transition into IT and my preparation for a work-study contract (alternance) at ESGI Toulon.
-
-The primary goals were to practice:
-
-Network programming and infrastructure task automation.
-
-Asynchronous/multi-threaded development in Python to drastically optimize performance compared to traditional sequential scanning.
-
-Advanced data structure manipulation and object sorting.
-
-Asynchronous/multi-threaded development in Python to drastically optimize performance compared to traditional sequential scanning.
-
-Advanced data structure manipulation and object sorting.
