@@ -1,4 +1,3 @@
-Markdown
 # ⚡ Network Scanner Fast (Multi-threaded)
 
 A high-performance Python network automation script designed to scan a local network, detect online hosts, and measure their latency. Utilizing multi-threading via `ThreadPoolExecutor`, this scanner asynchronously analyzes a range of 254 hosts in just a few seconds.
